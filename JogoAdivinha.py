@@ -50,3 +50,5 @@ if nrDeJogosJogados > 3:
     print("Você perdeu todas as suas chances. Prepara-se para sua MORTE!!!")
 
     print("GAME OVER")
+
+print("teste de compartilhamento")
